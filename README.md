@@ -56,6 +56,36 @@ Servidor físico
 * [ ] HTTPS y dominio
 * [ ] Automatizaciones
 
+## Capturas
+
+### Proxmox
+
+![Proxmox Dashboard](screenshots/proxmox-dashboard.png)
+
+### Portainer
+
+![Portainer Dashboard](screenshots/portainer-dashboard.png)
+
+### Uptime Kuma
+
+![Uptime Kuma Dashboard](screenshots/uptime-kuma-dashboard.png)
+
+## Aprendizajes obtenidos
+
+Durante este proyecto he trabajado con:
+
+- Virtualización mediante Proxmox VE
+- Creación y administración de máquinas virtuales
+- Administración básica de Ubuntu Server
+- Acceso remoto mediante SSH
+- Docker y Docker Compose
+- Gestión de contenedores con Portainer
+- Monitorización con Uptime Kuma
+- Reverse Proxy con Nginx Proxy Manager
+- Snapshots de máquinas virtuales
+- Backups automatizados en Proxmox
+- Documentación y control de versiones con Git y GitHub
+
 ## Objetivo profesional
 
 Este repositorio forma parte de mi proceso de aprendizaje y portfolio para reforzar competencias en administración de sistemas, infraestructura, redes, Linux, Docker y servicios self-hosted.
