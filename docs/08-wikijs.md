@@ -56,3 +56,19 @@ Ejemplos:
 - wikijs_wikijs_db_data
 
 Gracias a los volúmenes, los datos sobreviven aunque se eliminen o recrean los contenedores.
+
+## Reverse Proxy
+
+Se configuró Nginx Proxy Manager para publicar Wiki.js mediante un nombre amigable.
+
+Configuración:
+
+- Dominio: wiki.home
+- Destino: 192.168.18.33:3002
+- Protocolo: HTTP
+
+Beneficios:
+
+- No recordar puertos
+- Centralización de accesos
+- Preparación para HTTPS
